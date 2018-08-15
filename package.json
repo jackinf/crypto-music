@@ -1,0 +1,16 @@
+{
+  "name": "music-jam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-binance-api": "^0.8.1",
+    "scribbletune": "^1.1.1"
+  }
+}
